@@ -1,25 +1,29 @@
-html{
+html {
   background-color: #f2f1ed;
   font-family: Georgia, serif;
   line-height: 1.5;
+
 }
-img{
+img {
   width: 100%;
+
 }
 h1, h2 {
+  font-family: 'Patua One', sans-serif;
   color: #5d8432;
   text-transform: uppercase;
 }
-figcaption{
+figcaption {
   font-size: .8rem;
   font-style: italic;
   text-align: center;
 }
-nav{
+nav {
+  font-family: 'Patua One', sans-serif;
   font-size: 1.125rem;
   font-weight: bold;
 }
-nav ol{
+nav ol {
   list-style-type: none;
 }
 nav a {
